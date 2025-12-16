@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ong.avila.inc/sitemap.xml
+
+# Disallow admin pages if any
+# Disallow: /admin/

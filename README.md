@@ -1,6 +1,11 @@
-# Site da Dra. Carol - Veterinária Renomada
+# 🐆 Conexão Onça Pintada - ONG de Conservação
 
-🐾 Site profissional desenvolvido para apresentação da Dra. Carol, veterinária renomada em São Paulo com atendimento em todo o Brasil.
+[![Deploy](https://github.com/avilaops/ong/actions/workflows/deploy.yml/badge.svg)](https://github.com/avilaops/ong/actions/workflows/deploy.yml)
+
+> ONG dedicada à preservação das onças-pintadas e grandes felinos do Brasil
+
+## 🌐 Site Oficial
+**[ong.avila.inc](https://ong.avila.inc)** | **[GitHub Pages](https://avilaops.github.io/ong/)**
 
 ## 🚀 Tecnologias Utilizadas
 
