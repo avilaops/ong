@@ -1,0 +1,25 @@
+{
+    "name": "Conexão Onça Pintada",
+    "short_name": "ONG Onça",
+    "description": "ONG dedicada à preservação das onças-pintadas e grandes felinos do Brasil",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#2C1810",
+    "theme_color": "#D4A017",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/paw.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "nonprofit",
+        "conservation",
+        "wildlife"
+    ],
+    "lang": "pt-BR",
+    "dir": "ltr"
+}
